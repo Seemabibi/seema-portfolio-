@@ -27,6 +27,6 @@ Using HTML and CSS I have been able to create a webpage based portfolio. Althoug
 https://seemabibi.github.io/seema-portfolio-/
 
 # Screenshot of webpage
-![](../../../Desktop/Screenshot%202022-10-11%20at%2015.58.25.png)
-![](../../../Desktop/Screenshot%202022-10-11%20at%2015.58.37.png)
-![](../../../Desktop/Screenshot%202022-10-11%20at%2015.58.18.png)
+<img src="./images/portfolio.png"/>
+<img src="./images/portfolio2.png"/>
+<img src="./images/portfolio3.png"/>
