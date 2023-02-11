@@ -24,7 +24,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 Using HTML and CSS I have been able to create a webpage based portfolio. Although some parts have been easy to develop and create. I found the CCS and the knowledge behind flexbox difficult to adapt and link to my portfolio.  
 
 # Link
+
 https://seemabibi.github.io/seema-portfolio-/
+https://github.com/Seemabibi/seema-portfolio-
 
 # Screenshot of webpage
 <img src="./images/portfolio.png"/>
